@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_ume/flutter_ume.dart';
+import 'package:flutter_ume_animenzzz/flutter_ume.dart';
 import 'icon.dart' as icon;
 
 class Performance extends StatelessWidget implements Pluggable {

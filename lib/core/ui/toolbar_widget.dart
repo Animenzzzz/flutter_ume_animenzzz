@@ -2,14 +2,14 @@ import 'dart:async';
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_ume/core/ui/icon_cache.dart';
-import 'package:flutter_ume/core/pluggable_message_service.dart';
-import 'package:flutter_ume/core/ui/panel_action_define.dart';
-import 'package:flutter_ume/core/plugin_manager.dart';
-import 'package:flutter_ume/core/red_dot.dart';
-import 'package:flutter_ume/core/store_manager.dart';
-import 'package:flutter_ume/core/pluggable.dart';
-import 'package:flutter_ume/util/constants.dart';
+import 'package:flutter_ume_animenzzz/core/ui/icon_cache.dart';
+import 'package:flutter_ume_animenzzz/core/pluggable_message_service.dart';
+import 'package:flutter_ume_animenzzz/core/ui/panel_action_define.dart';
+import 'package:flutter_ume_animenzzz/core/plugin_manager.dart';
+import 'package:flutter_ume_animenzzz/core/red_dot.dart';
+import 'package:flutter_ume_animenzzz/core/store_manager.dart';
+import 'package:flutter_ume_animenzzz/core/pluggable.dart';
+import 'package:flutter_ume_animenzzz/util/constants.dart';
 
 class ToolBarWidget extends StatefulWidget {
   ToolBarWidget({Key? key, this.action, this.maximalAction, this.closeAction})

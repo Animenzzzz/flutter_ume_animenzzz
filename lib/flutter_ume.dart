@@ -1,4 +1,4 @@
-library flutter_ume;
+library flutter_ume_animenzzz;
 
 export 'core/ui/root_widget.dart';
 export 'core/plugin_manager.dart';

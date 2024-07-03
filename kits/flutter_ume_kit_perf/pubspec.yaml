@@ -1,18 +1,17 @@
-name: flutter_ume_kit_perf
+name: flutter_ume_kit_perf_animenzzz
 description: Performance kits for flutter_ume.
 version: 1.0.0
 homepage: https://github.com/bytedance/flutter_ume
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: ">=2.12.0 <4.0.0"
   flutter: ">=2.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
   vm_service: ^13.0.0
-  flutter_ume:
-    path: ../../
+  flutter_ume_animenzzz: ^0.0.1
 
 dev_dependencies:
   flutter_test:

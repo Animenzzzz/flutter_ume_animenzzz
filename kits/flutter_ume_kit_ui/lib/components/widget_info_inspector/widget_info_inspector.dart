@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_ume/flutter_ume.dart';
+import 'package:flutter_ume_animenzzz/flutter_ume.dart';
 import 'package:flutter_ume_kit_ui/components/hit_test.dart';
 import 'package:flutter_ume_kit_ui/util/binding_ambiguate.dart';
 import 'icon.dart' as icon;
 import 'package:flutter/rendering.dart';
-import 'package:flutter_ume/util/constants.dart';
+import 'package:flutter_ume_animenzzz/util/constants.dart';
 
 class WidgetInfoInspector extends StatefulWidget implements Pluggable {
   const WidgetInfoInspector({Key? key}) : super(key: key);

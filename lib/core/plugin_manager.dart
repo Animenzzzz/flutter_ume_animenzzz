@@ -1,5 +1,5 @@
-import 'package:flutter_ume/flutter_ume.dart';
-import 'package:flutter_ume/core/pluggable.dart';
+import 'package:flutter_ume_animenzzz/flutter_ume.dart';
+import 'package:flutter_ume_animenzzz/core/pluggable.dart';
 
 class PluginManager {
   static PluginManager? _instance;

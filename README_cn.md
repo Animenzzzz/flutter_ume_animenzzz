@@ -94,7 +94,7 @@ https://github.com/bytedance/flutter_ume/releases/download/v0.2.1.0/app-debug.ap
 3. 引入包
 
     ``` dart
-    import 'package:flutter_ume/flutter_ume.dart'; // UME 框架
+    import 'package:flutter_ume_animenzzz/flutter_ume.dart'; // UME 框架
     import 'package:flutter_ume_kit_ui/flutter_ume_kit_ui.dart'; // UI 插件包
     import 'package:flutter_ume_kit_perf/flutter_ume_kit_perf.dart'; // 性能插件包
     import 'package:flutter_ume_kit_show_code/flutter_ume_kit_show_code.dart'; // 代码查看插件包
@@ -249,7 +249,7 @@ showDialog(
 3. 创建插件配置，实现 `Pluggable` 虚类
 
     ``` dart
-    import 'package:flutter_ume/flutter_ume.dart';
+    import 'package:flutter_ume_animenzzz/flutter_ume.dart';
 
     class CustomPlugin implements Pluggable {
       CustomPlugin({Key key});

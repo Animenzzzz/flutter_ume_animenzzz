@@ -1,5 +1,5 @@
 import 'package:vm_service/vm_service.dart';
-import 'package:flutter_ume/flutter_ume.dart';
+import 'package:flutter_ume_animenzzz/flutter_ume.dart';
 
 class Property {
   final bool? isConst;

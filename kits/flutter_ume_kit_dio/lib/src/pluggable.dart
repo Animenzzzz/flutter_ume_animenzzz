@@ -5,7 +5,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:dio/dio.dart' show Dio;
-import 'package:flutter_ume/core/pluggable.dart';
+import 'package:flutter_ume_animenzzz/core/pluggable.dart';
 
 import 'models/http_interceptor.dart';
 import 'widgets/icon.dart' as icon;

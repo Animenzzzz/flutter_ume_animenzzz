@@ -1,8 +1,8 @@
 import 'package:flutter/widgets.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_ume/core/pluggable_message_service.dart';
-import 'package:flutter_ume/core/plugin_manager.dart';
-import 'package:flutter_ume/core/red_dot.dart';
+import 'package:flutter_ume_animenzzz/core/pluggable_message_service.dart';
+import 'package:flutter_ume_animenzzz/core/plugin_manager.dart';
+import 'package:flutter_ume_animenzzz/core/red_dot.dart';
 
 import '../utils/mock_classes.dart';
 

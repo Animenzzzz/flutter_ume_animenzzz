@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_ume/core/pluggable.dart';
+import 'package:flutter_ume_animenzzz/core/pluggable.dart';
 
 class IconCache {
   static Map<String, Widget> _icons = Map();

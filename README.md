@@ -95,7 +95,7 @@ Visit [Develop plugin kits for UME](#develop-plugin-kits-for-ume) for more detai
 3. Import packages
 
     ``` dart
-    import 'package:flutter_ume/flutter_ume.dart'; // UME framework
+    import 'package:flutter_ume_animenzzz/flutter_ume.dart'; // UME framework
     import 'package:flutter_ume_kit_ui/flutter_ume_kit_ui.dart'; // UI kits
     import 'package:flutter_ume_kit_perf/flutter_ume_kit_perf.dart'; // Performance kits
     import 'package:flutter_ume_kit_show_code/flutter_ume_kit_show_code.dart'; // Show Code
@@ -250,7 +250,7 @@ There are 13 plugin kits built in the current open source version of UME.
 3. Create the class of the plugin kit which should implement `Pluggable`.
 
     ``` dart
-    import 'package:flutter_ume/flutter_ume.dart';
+    import 'package:flutter_ume_animenzzz/flutter_ume.dart';
 
     class CustomPlugin implements Pluggable {
       CustomPlugin({Key key});

@@ -1,6 +1,6 @@
 import 'package:flutter_ume_kit_ui/third_party/cyclop/lib/cyclop.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_ume/flutter_ume.dart';
+import 'package:flutter_ume_animenzzz/flutter_ume.dart';
 import 'icon.dart' as icon;
 
 class ColorPicker extends StatefulWidget implements PluggableWithNestedWidget {

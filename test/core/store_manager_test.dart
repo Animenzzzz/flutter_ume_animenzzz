@@ -1,9 +1,9 @@
 import 'package:flutter/widgets.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:flutter_ume/core/pluggable.dart';
-import 'package:flutter_ume/core/plugin_manager.dart';
-import 'package:flutter_ume/core/store_manager.dart';
+import 'package:flutter_ume_animenzzz/core/pluggable.dart';
+import 'package:flutter_ume_animenzzz/core/plugin_manager.dart';
+import 'package:flutter_ume_animenzzz/core/store_manager.dart';
 
 import '../utils/mock_classes.dart';
 

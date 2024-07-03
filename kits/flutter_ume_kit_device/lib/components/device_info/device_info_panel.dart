@@ -1,7 +1,7 @@
 import 'package:device_info/device_info.dart';
 import 'package:flutter/material.dart';
 import 'package:platform/platform.dart';
-import 'package:flutter_ume/flutter_ume.dart';
+import 'package:flutter_ume_animenzzz/flutter_ume.dart';
 import 'icon.dart' as icon;
 
 class DeviceInfoPanel extends StatefulWidget implements Pluggable {
